@@ -57,16 +57,16 @@ footer{
 }
 @media (max-width:576px){
     #icons{
-        margin-left: 100px;
+        margin-left: 70px;
     }
     .btn{
-       padding: 4px 140px;
+       padding: 4px 100px;
      
     }
     .forgot{
-        margin-left: 90px;
+        margin-left: 60px;
     }
     .terms{
-        margin-left: 120px;
+        margin-left: 80px;
     }
 }
